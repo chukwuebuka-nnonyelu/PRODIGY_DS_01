@@ -3,7 +3,7 @@
 ## Files in this Repository
 
 - **[adult.data.xlsx](link-to-xlsx)**: The raw dataset,cleaned dataset, and pivot table.
-- **[Age Distribution Viz.xlsx](link-to-xlsx)**: The pivot table analysis with a bar chart visualizing the age distribution.
+- **[Age Distribution Viz.xlsx](Age Distribution Viz.xlsx)**: The pivot table analysis with a bar chart visualizing the age distribution.
 
 ## Instructions
 
