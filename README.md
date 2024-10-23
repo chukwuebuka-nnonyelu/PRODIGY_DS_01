@@ -6,19 +6,15 @@ This project visualizes the distribution of ages from a dataset containing indiv
 
 ## Visualization
 
-I used a bar chart to represent the frequency of occurrences for each age group. The chart highlights the most and least represented age groups in the dataset. You can view the chart [here](link-to-chart).
+I used a bar chart to represent the frequency of occurrences for each age group. The chart highlights the most and least represented age groups in the dataset. You can view the chart [here](https://github.com/chukwuebuka-nnonyelu/PRODIGY_DS_01/blob/main/Age%20Distribution%20Viz.xlsx).
 
 ## Key Insights
 
-- **Main Insight**: [Explain any significant trends, e.g., most dominant age group].
-- **Secondary Insight**: [Discuss any other observations, such as gaps between age groups or surprising distributions].
+- **Main Insight**: [The most dominant age group is 26-35 years, with a total of 8,514 persons].
+- **Secondary Insight**: [The least dominant age group is 76-90 years, with a toal of 241 persons].
 
 ## Methodology
 
 - Data ranges from ages 17 to 90.
-- Ages were grouped into intervals of [e.g., 5 or 10 years].
-- The chart was created using [mention any tools/libraries such as Python (Matplotlib/Seaborn), R, or Excel].
-
-## Conclusion
-
-This analysis provides a snapshot of the age distribution within the dataset. The visualization and insights can be useful for [specific use cases, further research, or related projects].
+- Ages were grouped into intervals.
+- The chart was created using [Excel].
