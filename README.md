@@ -10,11 +10,12 @@ I used a bar chart to represent the frequency of occurrences for each age group.
 
 ## Key Insights
 
-- **Main Insight**: [The most dominant age group is 26-35 years, with a total of 8,514 persons].
-- **Secondary Insight**: [The least dominant age group is 76-90 years, with a toal of 241 persons].
+- **Main Insight**: The most dominant age group is 26-35 years, with a total of 8,514 persons.
+- **Secondary Insight**: The least dominant age group is 76-90 years, with a toal of 241 persons.
 
 ## Methodology
 
+- The original dataset was gotten [here](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 - Data ranges from ages 17 to 90.
 - Ages were grouped into intervals.
-- The chart was created using [Excel].
+- The chart was created using Excel.
